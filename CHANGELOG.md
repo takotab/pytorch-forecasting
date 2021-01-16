@@ -2,6 +2,10 @@
 
 ## v0.8.3 UNRELEASED
 
+### Added
+
+- Adding Temporal Flow Transformer which can model time series interactions (#238)
+
 ### Fixed
 
 - Underlying data is copied if modified. Original data is not modified inplace (#263)
